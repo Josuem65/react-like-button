@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:Josuem65/react-like-button.git",
+  "author": "Josue Martinez <josue.martinez65@yahoo.com>",
+  "license": "MIT"
 }
